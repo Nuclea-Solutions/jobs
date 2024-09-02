@@ -1,6 +1,6 @@
 # jobs @ nuclea
 
-![werehiring](https://github.com/commaai/jobs/assets/8762862/0b4e6a12-da48-4f1b-8780-a2422c598444)
+![wearehiring](https://raw.githubusercontent.com/Nuclea-Solutions/jobs/main/assets/wearehiring.jpeg)
 
 Nuestra [misión](https://www.youtube.com/watch?v=laxKAZNPXiE&list=PL045EwNexrc3CEQi9ePMHYfxtwfI3-R35) es crear software a medida, flexible y rentable para automatizar, simplificar y mejorar la gestión de negocios.
 
@@ -45,10 +45,6 @@ En Nuclea, trabajamos en los siguientes equipos, cada uno con un enfoque único 
 
 Si quieres formar parte aquí te dejamos las posiciones en las que puedes aplicar:
 
-* Ingeniero de Software FullStack: Desarrolla soluciones integrales y maneja tanto el frontend como el backend. // Desafío
-
-* Ingeniero de Software Front-end: Crea y optimiza la experiencia de usuario en nuestra web y aplicaciones móviles. // Desafío
-
 * Ingeniero de Software Back-end: crea un chatbot usando LLMs y whatsapp  // [Desafío](llms.md)
 
 * Diseñador UX/UI: Diseña interfaces intuitivas y atractivas, mejorando la experiencia del usuario. // [Desafío](https://www.figma.com/slides/ZS6A2t23DE7J1TmVJuqF7R/Reto-t%C3%A9cnico-Product-Design---UX%2FUI-Design?node-id=1-23&t=DYaDYTA2d5KvNnWD-1)
@@ -62,3 +58,5 @@ Si quieres formar parte aquí te dejamos las posiciones en las que puedes aplica
 * [AI Assistant](https://www.nuclea.solutions/mx/ai-assistant): Trabaja con herramientas de asistencia basadas en inteligencia artificial. 
 
 ## Conoce nuestro lugar de trabajo
+
+[![YouTube Video](https://img.youtube.com/vi/0Ha9BlWlpLs/maxresdefault.jpg)](https://www.youtube.com/watch?v=0Ha9BlWlpLs)
