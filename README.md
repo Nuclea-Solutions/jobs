@@ -53,9 +53,9 @@ Si quieres formar parte aquí te dejamos las posiciones en las que puedes aplica
 
 **Pasantías:**
 
-* [Fullstack](https://www.nuclea.solutions/mx/full-stack): Trabaja en proyectos que abarcan el desarrollo completo de aplicaciones. 
-* [AI UX/UI](https://www.nuclea.solutions/mx/ai-powered-user-experience): Enfocado en la interfaz y experiencia de usuario en aplicaciones de inteligencia artificial. 
-* [AI Assistant](https://www.nuclea.solutions/mx/ai-assistant): Trabaja con herramientas de asistencia basadas en inteligencia artificial. 
+* [Fullstack](https://www.nuclea.solutions/full-stack): Trabaja en proyectos que abarcan el desarrollo completo de aplicaciones. 
+* [AI UX/UI](https://www.nuclea.solutions/ai-powered-user-experience): Enfocado en la interfaz y experiencia de usuario en aplicaciones de inteligencia artificial. 
+* [AI Assistant](https://www.nuclea.solutions/ai-assistant): Trabaja con herramientas de asistencia basadas en inteligencia artificial. 
 
 ## Conoce nuestro lugar de trabajo
 
